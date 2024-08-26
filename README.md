@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Data Structure and Algorithm**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **C++, DSA , Flutter**
+- 💬 Ask me about **C++, DSA , Spring Boot**
 
 - 📫 How to reach me **gk355252@gmail.com**
 
